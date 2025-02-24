@@ -1,0 +1,8 @@
+# ninja log v6
+147	232	1740379931452004687	Hernandez_Dominguez_PA3	e503896d5a0640bd
+2	146	1740379931307033543	CMakeFiles/Hernandez_Dominguez_PA3.dir/main.c.o	468c7d225e0e9db4
+3	112	1740381032272559276	build.ninja	7303f9ff7e27014a
+1	170	1740381032286734769	CMakeFiles/Hernandez_Dominguez_PA3.dir/testFunctions.c.o	29a6247fa5eb37f
+1	178	1740381032286016192	CMakeFiles/Hernandez_Dominguez_PA3.dir/main.c.o	468c7d225e0e9db4
+1	181	1740381032286381936	CMakeFiles/Hernandez_Dominguez_PA3.dir/musicManager.c.o	af03e79880054425
+181	467	1740381032466688676	Hernandez_Dominguez_PA3	9eb3badc8003851c

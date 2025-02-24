@@ -1,0 +1,3 @@
+/Users/isaachernandez/CLionProjects/Hernandez_Dominguez_PA3/cmake-build-debug/CMakeFiles/Hernandez_Dominguez_PA3.dir
+/Users/isaachernandez/CLionProjects/Hernandez_Dominguez_PA3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isaachernandez/CLionProjects/Hernandez_Dominguez_PA3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
